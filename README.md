@@ -1,4 +1,7 @@
 # ebook-demo
+#### 使用vue框架创建一个简单的电子书阅读器
+###### 包含设置字体、主题、进度条、目录功能
+![](https://github.com/Abby2016/ebook-demo/blob/master/public/ebook.png)
 
 ## Project setup
 ```
